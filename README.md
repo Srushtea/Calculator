@@ -1,3 +1,7 @@
+# The calculator looks like this
+<img width="371" alt="image" src="https://github.com/Srushtea/Calculator/assets/95202074/f67a97b9-8797-43ea-82b1-e4ba4011c205">
+<img width="287" alt="image" src="https://github.com/Srushtea/Calculator/assets/95202074/98c03464-bdc6-4e76-9b84-77d62142801d">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
